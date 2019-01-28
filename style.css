@@ -16,6 +16,7 @@ p {
 h1, h3{
     font-family: 'Chicle', cursive;
     text-shadow: rgb(0,0,0);
+    
 }
 
 #content{
@@ -68,4 +69,8 @@ table {
 
 #nav li a:hover{
     background-color: hotpink; 
+}
+
+h1 {
+    text-align:center;
 }
